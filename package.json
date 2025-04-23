@@ -1,0 +1,14 @@
+{
+  "name": "mvc-todo-app",
+  "version": "1.0.0",
+  "description": "Aplicación TODO con MVC",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^8.13.2"
+  }
+}
